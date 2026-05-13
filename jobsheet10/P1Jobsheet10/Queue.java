@@ -81,7 +81,7 @@ public class Queue {
     public int Dequeue() {
         int dt = 0;
         if (IsEmpty()) {
-            System.out.println("Queue masih kosong");
+            System.out.println("Queue masih kosongg");
         } else {
             dt = data[front];
             size--;
